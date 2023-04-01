@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTS2023_Task3_DroneSimulator", "OTS2023_Task3_DroneSimulator\OTS2023_Task3_DroneSimulator.csproj", "{24605F40-D78B-4CA5-94A6-D81CB0935CBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OTS2023_Task3_DroneSimulator.Test", "OTS2023_Task3_DroneSimulator.Test\OTS2023_Task3_DroneSimulator.Test.csproj", "{11EADADE-F6A3-432D-98D1-E848F8D845C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24605F40-D78B-4CA5-94A6-D81CB0935CBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24605F40-D78B-4CA5-94A6-D81CB0935CBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24605F40-D78B-4CA5-94A6-D81CB0935CBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24605F40-D78B-4CA5-94A6-D81CB0935CBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11EADADE-F6A3-432D-98D1-E848F8D845C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11EADADE-F6A3-432D-98D1-E848F8D845C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11EADADE-F6A3-432D-98D1-E848F8D845C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11EADADE-F6A3-432D-98D1-E848F8D845C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF92E590-8DEA-4BE8-8DCF-085C1B0E0EB5}
+	EndGlobalSection
+EndGlobal
